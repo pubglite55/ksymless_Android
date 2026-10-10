@@ -1,5 +1,11 @@
 # KallRecon
 
+<p align="center">
+  <a href="https://github.com/pubglite55/ksymless_Android/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/pubglite55/ksymless_Android?style=flat-square&label=Stars"></a>
+  <a href="https://github.com/pubglite55/ksymless_Android/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/pubglite55/ksymless_Android?style=flat-square&label=Last%20Commit"></a>
+  <a href="https://github.com/pubglite55/ksymless_Android/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/pubglite55/ksymless_Android?style=flat-square&label=License"></a>
+</p>
+
 discovers and reconstructs the kallsyms symbol table from kernel
 image memory on ARM64 GKI. locates kallsyms_lookup_name to provide
 symbol resolution from within an LKM. inspired by
